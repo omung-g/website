@@ -72,6 +72,10 @@ get going:
 
     ```
     git commit -a -m "Fixed some doc errors."
+    
+    
+    
+    
     ```
 
     Or:
