@@ -3,6 +3,7 @@
 Welcome to the GitHub repository for KubeEdge's public website. The docs are
 hosted at https://kubeedge.io.
 
+
 We use [Hugo](https://gohugo.io/) to format and generate our website, and
 [Netlify](https://www.netlify.com/) to manage the deployment of the site. Hugo
 is an open-source static site generator that provides us with templates, content
