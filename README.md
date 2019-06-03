@@ -1,4 +1,4 @@
-# Creating and updating the KubeEdge docs
+## Creating and updating the KubeEdge docs
 
 Welcome to the GitHub repository for KubeEdge's public website. The docs are
 hosted at https://kubeedge.io.
